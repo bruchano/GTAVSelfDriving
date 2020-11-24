@@ -1,0 +1,135 @@
+altair==4.1.0
+argon2-cffi==20.1.0
+astor==0.8.1
+async-generator==1.10
+atomicwrites==1.4.0
+attrs==19.3.0
+backcall==0.2.0
+base58==2.0.1
+beautifulsoup4==4.9.3
+bleach==3.2.1
+blinker==1.4
+boto3==1.15.4
+botocore==1.18.4
+brotlipy==0.7.0
+bs4==0.0.1
+cachetools==4.1.1
+certifi==2020.6.20
+cffi==1.14.0
+chardet==3.0.4
+click==7.1.2
+cloudpickle==1.3.0
+codecov @ file:///tmp/build/80754af9/codecov_1594343915108/work
+colorama==0.4.3
+coverage==5.0
+cryptography==2.9.2
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+enum-compat==0.0.3
+future==0.18.2
+gym==0.17.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+ipykernel==5.3.4
+ipython==7.17.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi==0.17.2
+Jinja2==2.11.2
+jmespath==0.10.0
+joblib==0.17.0
+jsonschema==3.2.0
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+jupyterlab-pygments==0.1.1
+keyboard==0.13.5
+kiwisolver==1.2.0
+lxml @ file:///D:/bld/lxml_1594322910610/work
+MarkupSafe==1.1.1
+matplotlib @ file:///D:/bld/matplotlib-base_1595353277961/work
+mistune==0.8.4
+mkl-fft==1.1.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+more-itertools==8.4.0
+mouse==0.7.1
+MouseInfo==0.1.3
+mss==6.0.0
+nbclient==0.5.0
+nbconvert==6.0.6
+nbformat==5.0.7
+nest-asyncio==1.4.0
+notebook==6.1.4
+numpy==1.18.5
+obspy @ file:///D:/bld/obspy_1593448035595/work
+olefile==0.46
+onnx==1.7.0
+opencv-python==4.4.0.44
+packaging==20.4
+pandas==1.1.2
+pandocfilters==1.4.2
+parso==0.7.1
+pathtools==0.1.2
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1594213067156/work
+pluggy==0.13.1
+prometheus-client==0.8.0
+prompt-toolkit==3.0.6
+protobuf==3.13.0
+py @ file:///tmp/build/80754af9/py_1593446248552/work
+pyarrow==1.0.1
+PyAutoGUI==0.9.52
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydeck==0.5.0b1
+pygame==2.0.0
+PyGetWindow==0.0.9
+pyglet==1.5.0
+Pygments==2.6.1
+PyMsgBox==1.0.9
+pynput==1.7.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+pyperclip==1.8.1
+pypiwin32==223
+PyRect==0.1.4
+pyrsistent==0.17.3
+PyScreeze==0.1.26
+PySocks==1.7.1
+pytest==5.4.3
+pytest-cov @ file:///tmp/build/80754af9/pytest-cov_1593202544670/work
+python-dateutil==2.8.1
+PyTweening==1.0.3
+pytz==2020.1
+pywin32==228
+pywinpty==0.5.7
+pyzmq==19.0.2
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+s3transfer==0.3.3
+scikit-learn==0.23.2
+scipy @ file:///C:/ci/scipy_1592916963468/work
+Send2Trash==1.5.0
+six==1.15.0
+sklearn==0.0
+soupsieve==2.0.1
+SQLAlchemy @ file:///D:/bld/sqlalchemy_1593116549410/work
+streamlit==0.67.1
+terminado==0.9.1
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.1
+toolz==0.11.0
+torch==1.5.1
+torchvision==0.2.1
+tornado==6.0.4
+traitlets==4.3.3
+typing-extensions==3.7.4.3
+tzlocal==2.1
+urllib3==1.25.9
+validators==0.18.1
+watchdog==0.10.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+win-inet-pton==1.1.0
+wincertstore==0.2
